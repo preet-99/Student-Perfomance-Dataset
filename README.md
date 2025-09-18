@@ -52,7 +52,7 @@ influence student performance the most.
 
 ## 🛠️ Installation
 ```bash 
-git clone https://github.com/your-username/student-performance-prediction.git
+git clone https://github.com/preet-99/Student-Perfomance-Dataset.git
 cd student-performance-prediction
 pip install -r requirements.txt
 ```
